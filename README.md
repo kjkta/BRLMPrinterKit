@@ -9,5 +9,5 @@ This is the [Brother Print SDK](https://support.brother.com/g/s/es/dev/en/mobile
 
 Add the following line to your Podfile / .podspec:
 ```
-pod 'BRLMPrinterKit'
+pod 'BRLMPrinterKit_Net'
 ```
